@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: Par3
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Marzena Karpinska
+  - given-names: Katherine Thai
+  - given-names: Kalpesh Krishna
+  - given-names: John Wieting
+  - given-names: Moira Inghilleri
+  - given-names: Mohit Iyyer
+version: 1.0
+date-released: 2022-05-01
+url: "https://github.com/ngram-lab/par3"

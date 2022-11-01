@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "par3-align"
+version = "0.1.2"
+description = "Scripts to align books and process the Par3 dataset."
+authors = ["Kalpesh Krishna"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "par3_align"}]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+torch = "^1.12.1"
+spacy = "^3.4.1"
+nltk = "^3.7"
+sentencepiece = "^0.1.97"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
