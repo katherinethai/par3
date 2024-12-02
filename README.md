@@ -6,6 +6,9 @@ Par3 is a dataset comprised of aligned paragraphs of public-domain foreign langu
 ## Dataset Download Link
 https://drive.google.com/drive/folders/1t7Cd_cRC4utDG3ngpX3YapXZvs-rCr64?usp=share_link
 
+## Human Annotation Data Download Link
+https://drive.google.com/file/d/1gbVujLCWsXF6LJCIsW6q-gnHdm7lziM1/view?usp=sharing
+
 ## Corpus Statistics
 |    | # |
 | ------------- | ------------- |
